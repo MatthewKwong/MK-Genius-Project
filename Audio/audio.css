@@ -32,9 +32,10 @@ div{
     margin-bottom:1%;
     text-align: center;
 /*Change this for laptop and chromebook. 
-    Chromebook: 35.5%  
+    Chromebook: 35%  
     laptop: 37.5%*/
     margin-left:35%;
+    display:inline;
 }
 
 
