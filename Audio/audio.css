@@ -1,5 +1,6 @@
 /* Main Tags */
 body{
+    overflow:hidden;
     font-family: sans-serif;
     text-align:center;
     background-image:url("http://4vector.com/i/free-vector-brilliant-neon-color-background-image-08-vector_015974_8.jpg");
@@ -18,6 +19,10 @@ h2{
     color:white;
 }
 
+h1{
+    text-align:center;
+}
+
 h1:hover{
     color:blue;
 }
@@ -26,7 +31,10 @@ div{
     float:left;
     margin-bottom:1%;
     text-align: center;
-    margin-left:37.5%;
+/*Change this for laptop and chromebook. 
+    Chromebook: 35.5%  
+    laptop: 37.5%*/
+    margin-left:35%;
 }
 
 
