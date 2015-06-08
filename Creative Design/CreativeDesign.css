@@ -172,14 +172,10 @@ body{
     height:12em;
 }
 
-#myVideo{
-        
-}
-
 #textOverVideo{
     position:absolute;
     margin-left:25%;
-    top: 60%;
+    top: 90%;
     color:white;
     font-family:arial;
     font-size:4em;
